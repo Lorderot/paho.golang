@@ -1,6 +1,6 @@
 package paho
 
-import "github.com/eclipse/paho.golang/packets"
+import "github.com/Lorderot/paho.golang/packets"
 
 type noopPersistence struct{}
 

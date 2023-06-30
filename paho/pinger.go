@@ -7,7 +7,7 @@ import (
 	"sync/atomic"
 	"time"
 
-	"github.com/eclipse/paho.golang/packets"
+	"github.com/Lorderot/paho.golang/packets"
 )
 
 // PingFailHandler is a type for the function that is invoked
